@@ -1,7 +1,7 @@
 # ITP4501-Assignment
 ## Project Purpose
 
-This Match Pairs Memory Game is developed as part of the ITP4501 Programming Techniques for Mobile Systems course. The main objective is to create an Android application that plays a Match Pairs Memory Game. The app records the results and move counts required to complete a game and displays history records using charts. This project aims to provide students with hands-on experience in mobile application UI and program design, practical skills in Android application development, and an understanding of the constraints and limitations of mobile applications.
+This Match Pairs Memory Game is developed as part of the ITP4501 Programming Techniques for Mobile Systems course. The main objective is to create an Android application that plays a Match Pairs Memory Game. This project aims to provide students with hands-on experience in mobile application UI and program design, practical skills in Android application development, and an understanding of the constraints and limitations of mobile applications.
 
 ## Features
 
