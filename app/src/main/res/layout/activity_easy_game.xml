@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/ivBG"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".EasyGame">
+
+        <TextView
+            android:id="@+id/tvMove"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Moves: 0"
+            android:textSize="25dp" />
+
+        <GridView
+
+            android:id="@+id/gvMap"
+            android:layout_width="match_parent"
+            android:layout_height="630dp"
+            android:numColumns="2"
+            android:stretchMode="columnWidth">
+
+        </GridView>
+
+        <Button
+            android:id="@+id/btnRestart"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="Replay" />
+    </LinearLayout>
+</FrameLayout>
