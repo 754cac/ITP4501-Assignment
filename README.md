@@ -36,36 +36,36 @@ By following these steps, the game replay feature can be effectively implemented
 
 ### Main Page
 <p align="center">
-  <img src="./image_folder/main_page.png" alt="Main Page" width="738">
+  <img src="./image/main_page.png" alt="Main Page" width="738">
 </p>
 
 ### In-Game
 <p align="center">
-  <img src="./image_folder/ingame.png" alt="In-Game" width="738">
+  <img src="./image/ingame.png" alt="In-Game" width="738">
 </p>
 
 ### Change Background
 <p align="center">
-  <img src="./image_folder/change_background.png" alt="Change Background" width="738">
+  <img src="./image/change_background.png" alt="Change Background" width="738">
 </p>
 
 ### Game Record
 <p align="center">
-  <img src="./image_folder/game_record.png" alt="Game Record" width="738">
+  <img src="./image/game_record.png" alt="Game Record" width="738">
 </p>
 
 ### Ranking
 <p align="center">
-  <img src="./image_folder/ranking.png" alt="Ranking" width="738">
+  <img src="./image/ranking.png" alt="Ranking" width="738">
 </p>
 
 ### Replay Record
 <p align="center">
-  <img src="./image_folder/replay_record.png" alt="Replay Record" width="738">
+  <img src="./image/replay_record.png" alt="Replay Record" width="738">
 </p>
 
 ### Select Replay Record
 <p align="center">
-  <img src="./image_folder/select_replay_record.png" alt="Select Replay Record" width="738">
+  <img src="./image/select_replay_record.png" alt="Select Replay Record" width="738">
 </p>
 
